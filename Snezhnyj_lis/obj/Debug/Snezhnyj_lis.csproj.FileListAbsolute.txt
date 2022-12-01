@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\Snezhnyj_lis\Snezhnyj_lis\bin\Debug\Snezhnyj_lis.exe.config
+C:\Users\ACER\source\repos\Snezhnyj_lis\Snezhnyj_lis\bin\Debug\Snezhnyj_lis.exe
+C:\Users\ACER\source\repos\Snezhnyj_lis\Snezhnyj_lis\bin\Debug\Snezhnyj_lis.pdb
+C:\Users\ACER\source\repos\Snezhnyj_lis\Snezhnyj_lis\obj\Debug\Snezhnyj_lis.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Snezhnyj_lis\Snezhnyj_lis\obj\Debug\Snezhnyj_lis.Form1.resources
+C:\Users\ACER\source\repos\Snezhnyj_lis\Snezhnyj_lis\obj\Debug\Snezhnyj_lis.Properties.Resources.resources
+C:\Users\ACER\source\repos\Snezhnyj_lis\Snezhnyj_lis\obj\Debug\Snezhnyj_lis.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Snezhnyj_lis\Snezhnyj_lis\obj\Debug\Snezhnyj_lis.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Snezhnyj_lis\Snezhnyj_lis\obj\Debug\Snezhnyj_lis.exe
+C:\Users\ACER\source\repos\Snezhnyj_lis\Snezhnyj_lis\obj\Debug\Snezhnyj_lis.pdb
+C:\Users\ACER\source\repos\Snezhnyj_lis\Snezhnyj_lis\obj\Debug\Snezhnyj_lis.Form2.resources
+C:\Users\ACER\source\repos\Snezhnyj_lis\Snezhnyj_lis\obj\Debug\Snezhnyj_lis.Form3.resources
+C:\Users\ACER\source\repos\Snezhnyj_lis\Snezhnyj_lis\obj\Debug\Snezhnyj_lis.Form5.resources
+C:\Users\ACER\source\repos\Snezhnyj_lis\Snezhnyj_lis\obj\Debug\Snezhnyj_lis.Form6.resources
